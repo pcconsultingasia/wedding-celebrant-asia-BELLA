@@ -63,3 +63,38 @@ from = "/weddingcelebrantasia.com/2017/03/15/phuket-beach-wedding-vow-renewal/"
 to = "/"
 status = 301
 force = false
+[[redirects]]
+from = "https://weddingcelebrantasia.com/wedding-celebrant-asia-galleries/wedding-celebrant-phuket-tina-james-beach-wedding-ceremony-kata/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://weddingcelebrantasia.com/category/wedding-celebrant/celebrant-latest-events/wedding-vow-renewal-celebrant/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://weddingcelebrantasia.com/wedding-celebrant-asia-galleries/beach-wedding-celebrant-marie-laura-3rd-january-2017-kata-beach-phuket/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://weddingcelebrantasia.com/wedding-celebrant-asia-galleries/phuket-wedding-vow-renewal-hayley-colin/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://weddingcelebrantasia.com/2017/03/15/phuket-beach-wedding-vow-renewal/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://weddingcelebrantasia.com/2016/10/19/beach-wedding/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://weddingcelebrantasia.com/category/wedding-celebrant/celebrant-latest-events/phuket-villa-wedding-celebrant/"
+to = "/"
+status = 301
+force = false

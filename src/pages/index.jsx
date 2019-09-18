@@ -201,17 +201,17 @@ const IndexPage = ({
               So you have made your Celebrant choice. You may have some ideas already on what you would like to say to each other and your personal vows but the celebrant should be able to send you a few examples of different types of Wedding ceremony scripts.
               From here, you can cherry pick and add from these examples – it can short or long – anything is possible as it is your Cremony. 
               Then you all work on this together to a final version for the Wedding Ceremony Script. This normally takes 1-3 iterations before a complete final Ceremony is formed. 
-              Finally, on the day the Celebrant role is to ensure that the ceremony runs smoothly and is relaxed so if you have any special requests just ask..See Below
+              Finally, on the day the Celebrant role is to ensure that the ceremony runs smoothly and is relaxed, so if you have any special requests just ask.
             </p>
             <ul>
-              <li>Christian & Non-Relgious Ceremony Examples to help you draft a perosnalized marriage ceremony</li>
-              <li>Examples of Wedding Vows to help you design your own individual Wedding Vows or Committments</li>
-              <li>Over many years of experience, I help co-ordinate and plan your ceremony with you</li>
+              <li>Christian & Non-Relgious Ceremony Script Examples to help you draft a perosnalized marriage ceremony</li>
+              <li>Examples of Wedding Vow Scripts to help you design your own individual Wedding Vows or Committment Ceremony</li>
+              <li>With many years of experience, I help co-ordinate and plan your ceremony with you</li>
             </ul>
             <h2>Legal Weddings in Phuket & Thailand</h2>
             <p> The process of marrying legally in Thailand involves a visit to your Embassy in Bankgok at least 10 working days before your Phuket Wedding.
               The Embassy will issue an Affidavit staing that you are free to marry.  Each Embassy have their own country specific regulations and document requirements.
-              We advise to call them first on these requirements. On reciept of your Affidavit, we take over until you are legally married in Phuket. See more on the Legal Wedding page.
+              We always advise you to call them first on these requirements. On reciept of your Affidavit, we take over until you are legally married in Phuket. See more on the Legal Wedding page.
             </p>
             <ul></ul>
           </ServiceText>

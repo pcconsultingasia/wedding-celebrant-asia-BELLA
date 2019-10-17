@@ -1,3 +1,0 @@
-User-agent: *
-Allow:
-sitemap: http://a191743.sitemaphosting2.com/4132838/sitemap.xml
